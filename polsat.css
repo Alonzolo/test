@@ -1,0 +1,382 @@
+body {
+	font:12px Tahoma;
+	margin:0px;
+/*	text-align:center;*/
+/*	background:#E0FFFF;*/
+	}
+
+/*h1 {
+	font-family: Castellar;
+	font-size:20px;
+	text-align:left;
+	color: #000000;
+	margin-left:1cm;
+	}*/
+	
+/*p {
+	font-family: Tahoma;
+	font-size:16px;
+	text-align:left;
+	color: #696969;
+	}*/
+
+/*td.title {
+  width:690px;
+  text-align:left;
+  font-weight: bold;
+  background-color: #D3D3D3;
+  white-space: nowrap;
+  color: #000000;
+}*/
+
+font {
+	font-family: Georgia;
+	font-size:13px;
+	text-align:left;
+	color: #4F95FF;
+	font-weight: bold;
+}
+
+table.hidetopborder11 {
+	border: none;
+	border-bottom: solid 1px;
+	border-color:#C0C0C0;
+	width:540px;
+}
+
+td.head {
+  width: 40%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.headfont {
+  font-family:Arial;
+  font-weight:bold;
+  color:#595959;
+  font-size:11px;
+  padding:0.4em;
+}
+
+td.headvalue {
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.headvalueforwidth {
+  width:100%;
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.head1 {
+  width: 40%;
+  font-family: Arial;
+  font-weight: bold;
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  padding:0.4em;
+}
+
+td.headvalue1 {
+  padding:0.4em;
+}
+
+td.head2 {
+  width: 45%;
+  font-family: Arial;
+  font-weight: bold;
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  padding:0.4em;
+}
+
+td.headvalue2 {
+  width: 55%;
+  padding:0.4em;
+}
+
+table.formstyle {
+	width:559px;
+	border-collapse:collapse;
+	/*border-top|left|right|bottom;*/
+}
+table.forwpsborderwidth {
+	width:543px;
+	border-collapse:collapse;
+	/*border-top|left|right|bottom;*/
+}
+
+td.lansettingsbordertop {
+  width: 35%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  border-top:1px solid;
+  border-bottom:0px;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.lansettingsbordertopvalue {
+  border-top:1px solid;
+  border-bottom:0px;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.lansettingsborderall {
+  width: 35%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.lansettingsborderallvalue {
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.lansettingsborderbottom {
+  width: 35%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.lansettingsborderbottomvalue {
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.wifisecuritynoneborder {
+  width: 40%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  padding:0.4em;
+}
+td.wifisecuritynoneborderforFF {
+  width: 37%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  padding:0.4em;
+}
+
+td.wifisecuritynonebordervalue {
+  width: 60%;
+ /* border-top:0px;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;*/
+  padding:0.4em;
+}
+
+td.wifisecuritybordertop {
+  width: 40%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  border-top:0px;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.wifisecuritybordertopvalue {
+  border-top:0px;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.headClientPIN {
+  width: 46%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  padding:0.4em;
+}
+td.headvalueClientPIN {
+  width: 29%;
+}
+td.headClientPINbutton {
+  width: 25%;
+}
+
+td.headIDUPIN {
+  width: 46%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  padding:0.4em;
+}
+
+td.headvalueIDUPIN {
+  width: 29%;
+}
+td.headvalueIDUPINfirefox {
+  width: 30%;
+}
+
+td.headIDUPINbutton {
+  width: 25%;
+}
+
+table.forbottomborder {
+  width:559px;
+  border-top:1px solid;
+  border-bottom:0px;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+table.fornoneborder {
+  width:542px;
+  border-top:0px;
+  border-bottom:0px;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+
+td.wifisettingsbordertop {
+  width: 40%;
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  border-top:1px solid;
+  border-bottom:0px;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.wifisettingsbordertopvalue {
+  border-top:1px solid;
+  border-bottom:0px;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.dhcpclient {
+  width:25%; 
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
+
+td.headforstatistics {
+  font-family: Arial;
+  font-weight: bold;
+ /* background-color: #E6E6FA;*/
+  white-space: nowrap;
+  color: #595959;
+  font-size:11px;
+  text-align:left;
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-left:0px;
+  border-right:0px;
+  border-color:LightGrey;
+  padding:0.4em;
+}
